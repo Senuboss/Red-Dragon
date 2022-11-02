@@ -48,15 +48,15 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['+94740612695']
-global.ownertag = '+380944814219' //your tag number
+global.ownertag = '+94740612695' //your tag number
 global.botname = 'ᶜᵁᵀᴱ׀ꜱͥᴇɴͣᴜͫ ×͜×' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
+global.packname = "ᶜᵁᵀᴱ׀ꜱͥᴇɴͣᴜͫ ×͜×" // sticker packname
 global.author = "😺💓" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
+global.dragonemoji = '👻' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94740612695'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
