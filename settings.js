@@ -62,7 +62,7 @@ global.premium = ['+94740612695'] //ur premium numbers
 global.sessionName = 'session'
 global.antitags = true
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
-global.sp = '💠'
+global.sp = '🤍'
 global.mess = {
     success: 'Done ✅',
     admin: 'Only Admins can use it!😉',
